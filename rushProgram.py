@@ -1,4 +1,6 @@
 import pyautogui, mouse, keyboard, random, time, threading, os
+#Ryantron 2019
+
 #pip install pyautogui & pip install keyboard
 #Preconditions:
 ##Python installed with the proper libraries
