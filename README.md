@@ -3,7 +3,7 @@
 
 I worked with repl.it so here are the sources:
 
-1) My tea website: https://repl.it/@RobotronGod/MyWebsite
-2) NYC Open data website: https://repl.it/@RobotronGod/JSONData
+1) My Tea Website: https://repl.it/@RobotronGod/MyWebsite
+2) NYC Open Data website: https://repl.it/@RobotronGod/JSONData
 3) Encryption Project: https://repl.it/@RobotronGod/Encryption
 4) Python Minecraft Macro for Minecraft: RushProgram.py
